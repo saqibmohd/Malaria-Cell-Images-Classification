@@ -5,4 +5,4 @@ here.
 
 https://www.kaggle.com/mesaqib/malaria-classification
 
-As you can on kenel that I got 95% test accuracy which is quite well. 
+As you can see on kenel that I got 95% test accuracy which is quite well. 
